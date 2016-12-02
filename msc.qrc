@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>yoqu.m4a</file>
+        <file>emot.m4a</file>
+    </qresource>
+</RCC>

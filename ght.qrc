@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>enem_opt.png</file>
+        <file>bal.png</file>
+        <file>bal2.png</file>
+        <file>fondopas.png</file>
+        <file>felizo.png</file>
+        <file>youtube.png</file>
+        <file>facep.png</file>
+        <file>inst.png</file>
+        <file>towerf.jpg</file>
+        <file>gyp.png</file>
+    </qresource>
+</RCC>
